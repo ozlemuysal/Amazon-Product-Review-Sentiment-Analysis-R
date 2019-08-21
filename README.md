@@ -12,4 +12,5 @@ In this Project the following steps are implemented by using R language and scra
   6. Bigram correlation graph
   7. Bigram network graph (Degree)
   
-Related medium article:   
+Related medium article: https://medium.com/@ozlemuysal/sentiment-analysis-for-product-reviews-using-r-74fc767fb16f
+
