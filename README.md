@@ -1,4 +1,4 @@
-# Amazon-Product-Review-Sentiment-Analysis-R
+# Amazon Product Review / Sentiment Analysis Using R
 
 Sentiment Analysis (also known as Opinion Mining or Emotion AI) is an automated process of understanding the opinion from written or spoken language. Unstructured data is rapidly outgrowing structural data and forms 80–90 percent of an organization's overall data. Automating the process using Sentiment Analysis is becoming more and more inevitable for the companies. The most common use of Sentiment Analysis is Voice Of Customer materials like reviews, comments, survey responses, social media posts.
 
